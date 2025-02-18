@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Design",
+    "capacity": 16,
+    "students": 7,
+    "day": "Quarta-feira",
+    "hour": "8:00",
+    "room": "1"
+  },
+  {
+    "id": 2,
+    "name": "Inglês",
+    "capacity": 16,
+    "students": 5,
+    "day": "Quarta-feira",
+    "hour": "8:00",
+    "room": "2"
+  },
+  {
+    "id": 3,
+    "name": "Inglês",
+    "capacity": 16,
+    "students": 7,
+    "day": "Quarta-feira",
+    "hour": "9:30",
+    "room": "2"
+  },
+  {
+    "id": 4,
+    "name": "Programação Fullstack",
+    "capacity": 12,
+    "students": 3,
+    "day": "Quarta-feira",
+    "hour": "8:00",
+    "room": "3"
+  }
+]
