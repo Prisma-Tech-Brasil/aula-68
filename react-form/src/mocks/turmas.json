@@ -3,7 +3,31 @@
     "id": 1,
     "name": "Design",
     "capacity": 16,
-    "students": 7,
+    "students": [
+      { "id": 101, "name": "Ana Souza", "email": "ana.souza@email.com" },
+      {
+        "id": 102,
+        "name": "Carlos Mendes",
+        "email": "carlos.mendes@email.com"
+      },
+      {
+        "id": 103,
+        "name": "Fernanda Lima",
+        "email": "fernanda.lima@email.com"
+      },
+      {
+        "id": 104,
+        "name": "Gabriel Rocha",
+        "email": "gabriel.rocha@email.com"
+      },
+      {
+        "id": 105,
+        "name": "Mariana Oliveira",
+        "email": "mariana.oliveira@email.com"
+      },
+      { "id": 106, "name": "Paulo César", "email": "paulo.cesar@email.com" },
+      { "id": 107, "name": "Juliana Alves", "email": "juliana.alves@email.com" }
+    ],
     "day": "Quarta-feira",
     "hour": "8:00",
     "room": "1"
@@ -12,7 +36,29 @@
     "id": 2,
     "name": "Inglês",
     "capacity": 16,
-    "students": 5,
+    "students": [
+      {
+        "id": 201,
+        "name": "Rodrigo Martins",
+        "email": "rodrigo.martins@email.com"
+      },
+      {
+        "id": 202,
+        "name": "Larissa Ferreira",
+        "email": "larissa.ferreira@email.com"
+      },
+      {
+        "id": 203,
+        "name": "Vinícius Lima",
+        "email": "vinicius.lima@email.com"
+      },
+      {
+        "id": 204,
+        "name": "Tatiane Costa",
+        "email": "tatiane.costa@email.com"
+      },
+      { "id": 205, "name": "Eduardo Silva", "email": "eduardo.silva@email.com" }
+    ],
     "day": "Quarta-feira",
     "hour": "8:00",
     "room": "2"
@@ -21,7 +67,39 @@
     "id": 3,
     "name": "Inglês",
     "capacity": 16,
-    "students": 7,
+    "students": [
+      { "id": 301, "name": "Carla Nunes", "email": "carla.nunes@email.com" },
+      {
+        "id": 302,
+        "name": "Thiago Santos",
+        "email": "thiago.santos@email.com"
+      },
+      {
+        "id": 303,
+        "name": "Renata Almeida",
+        "email": "renata.almeida@email.com"
+      },
+      {
+        "id": 304,
+        "name": "Bruno Moreira",
+        "email": "bruno.moreira@email.com"
+      },
+      {
+        "id": 305,
+        "name": "Patrícia Souza",
+        "email": "patricia.souza@email.com"
+      },
+      {
+        "id": 306,
+        "name": "Fábio Correia",
+        "email": "fabio.correia@email.com"
+      },
+      {
+        "id": 307,
+        "name": "Amanda Ribeiro",
+        "email": "amanda.ribeiro@email.com"
+      }
+    ],
     "day": "Quarta-feira",
     "hour": "9:30",
     "room": "2"
@@ -30,7 +108,23 @@
     "id": 4,
     "name": "Programação Fullstack",
     "capacity": 12,
-    "students": 3,
+    "students": [
+      {
+        "id": 401,
+        "name": "Daniel Oliveira",
+        "email": "daniel.oliveira@email.com"
+      },
+      {
+        "id": 402,
+        "name": "Samantha Mendes",
+        "email": "samantha.mendes@email.com"
+      },
+      {
+        "id": 403,
+        "name": "Fernando Ribeiro",
+        "email": "fernando.ribeiro@email.com"
+      }
+    ],
     "day": "Quarta-feira",
     "hour": "8:00",
     "room": "3"
