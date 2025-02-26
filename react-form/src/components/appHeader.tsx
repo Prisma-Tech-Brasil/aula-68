@@ -28,8 +28,8 @@ function AppHeader() {
           Turmas
         </Link>
         <Link
-          to="/create_class"
-          className={`nav-link ${location.pathname === "/create_class" ? "active" : ""}`}
+          to="/createClass"
+          className={`nav-link ${location.pathname === "/createClass" ? "active" : ""}`}
         >
           Criar turma
         </Link>
